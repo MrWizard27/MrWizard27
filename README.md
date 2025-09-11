@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi I'm Mr.Wizard! 
+
+### I'm a CyberSecurity student trying to learn anything I can about coding and interacting with different technologies.
+### My page is mainly filled with code I wrote to solve Capture the Flag challenges and Automation.
+
+## Programming Languages I know
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
 
 <!--
 **MrWizard27/MrWizard27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
